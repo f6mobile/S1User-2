@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Modul_1</string>
+    <string name="logo">logo1</string>
+    <string name="email">E-mail</string>
+    <string name="Password1">Password</string>
+    <string name="btn1">Enter Your House</string>
+    <string name="btn2">New Residents</string>
+    <string name="smart">Smart House</string>
+    <string name="Home">Your Home</string>
+    <string name="home2">2715 Ash Dr. San Jose, South Dakota 83475</string>
+    <string name="name1">Name</string>
+    <string name="todo">TODO</string>
+    <string name="room">ROOM</string>
+    <string name="Enter">Enter Rooms name</string>
+    <string name="select">Select Rooms icon</string>
+    <string name="kitchen">Kitchen</string>
+    <string name="room1">Bedroom</string>
+    <string name="room2">Bathroom</string>
+    <string name="room3">Office</string>
+    <string name="room4">TV Room</string>
+    <string name="room5">Living Room</string>
+    <string name="room6">Garage</string>
+    <string name="room7">Tollet</string>
+    <string name="room8">Kid Room</string>
+    <string name="light1">Main lights</string>
+    <string name="light2">lm</string>
+    <string name="light3">light strenght</string>
+</resources>
